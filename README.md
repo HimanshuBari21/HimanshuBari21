@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HimanshuBari21
 - 👀 I’m interested in Web Development
-- 😎 I am good in HTML, CSS, Bootstrap and UI UX design
-- 🌱 I’m currently learning JavaScript, PHP, Database(SQL), node.js
+- 😎 I am good in HTML, CSS, Bootstrap and JavaScript
+- 🌱 I’m currently learning React.JS, PHP and MySQL
 -  Wants to Become Full Stack Web Developer
 
 <!---
