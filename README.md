@@ -4,7 +4,7 @@
 - 🌱 I’m Learning MongoDB Express.js React.js Node.js
 -  Wants to Become Full Stack MERN Web Developer
 
-OPEN FOR WORK
+OPEN FOR WORK, You can connect with me on twitter ( https://twitter.com/HimanshuBari19 ) or email me at himanshubari789@gmail.com
 
 <!---
 HimanshuBari21/HimanshuBari21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
