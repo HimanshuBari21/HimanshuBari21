@@ -4,7 +4,8 @@
 - 🌱 I’m Learning MongoDB Express.js React.js Node.js
 -  Wants to Become Full Stack MERN Web Developer
 
-My Website - himanshu-bari-profile.netlify.app
+My Website - https://himanshu-bari-profile.netlify.app
+
 You can connect with me on twitter ( https://twitter.com/HimanshuBari19 ) or email me at himanshubari789@gmail.com
 
 
