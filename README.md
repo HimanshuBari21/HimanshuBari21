@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @HimanshuBari21
-- 👀 I’m interested in Web Development
+- 💻 Web Developer
+- 🏠Freelancer
+- 👀 I’m interested in Anything Amazing and Innovative 
 - 😎 I am good in HTML, CSS, Bootstrap and JavaScript
-- 🌱 I’m Learning MongoDB Express.js React.js Node.js
--  Wants to Become Full Stack MERN Web Developer
+- 🌱 I’m Learning Full Stack Web Development, DSA and Problems Solving.
 
 My Website - https://himanshu-bari-profile.netlify.app
 
