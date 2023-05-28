@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HimanshuBari21
 - 💻 Web Developer
-- 🏠Freelancer
 - 👀 I’m interested in Anything Amazing and Innovative 
-- 😎 I am good in HTML, CSS, Bootstrap and JavaScript
+- 😎 I am good in React, Next.js and JavaScript
 - 🌱 I’m Learning Full Stack Web Development, DSA and Problems Solving.
 
 My Website - https://himanshu-bari-profile.netlify.app
