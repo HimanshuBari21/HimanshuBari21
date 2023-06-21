@@ -4,7 +4,7 @@
 - 😎 I am good in React, Next.js and JavaScript
 - 🌱 I’m Learning Full Stack Web Development, DSA and Problems Solving.
 
-My Website - https://himanshu-bari-profile.netlify.app
+My Website - [https://himanshubari.netlify.app](https://himanshubari.netlify.app/#profile)
 
 You can connect with me on twitter ( https://twitter.com/HimanshuBari19 ) or email me at himanshubari789@gmail.com
 
