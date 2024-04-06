@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @HimanshuBari21
 - 💻 Web Developer
 - 👀 I’m interested in Anything Amazing and Innovative 
-- 😎 I am good in React, Next.js and JavaScript
-- 🌱 I’m Learning Full Stack Web Development, DSA and Problems Solving.
+- 😎 I am good in React, Next.js and TypeScript
+- 🌱 I’m Learning MERN, DSA , Basics of AI/ML and Problems Solving.
 
-My Website - [https://himanshubari.netlify.app](https://himanshubari.netlify.app/#profile)
+My Website - [https://himanshubari.netlify.app](https://himanshubari.netlify.app/)
 
 You can connect with me on twitter ( https://twitter.com/HimanshuBari19 ) or email me at himanshubari789@gmail.com
 
