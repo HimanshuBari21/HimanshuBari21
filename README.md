@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @HimanshuBari21
-- 💻 Web Developer
+- 💻 Software Developer
 - 👀 I’m interested in Anything Amazing and Innovative 
-- 😎 I am good in React, Next.js and TypeScript
-- 🌱 I’m Learning MERN, DSA , Basics of AI/ML and Problems Solving.
+- 😎 I am good in React, Next.js, Tailwind and TypeScript
+- 🌱 I’m Learning React Native, MERN, DSA , Basics of AI/ML and Problems Solving.
 
-My Website - [https://himanshubari.netlify.app](https://himanshubari.netlify.app/)
+My Website - [https://himanshubari.netlify.app](https://himanshubari.netlify.app/) DUMMY content
 
-You can connect with me on twitter ( https://twitter.com/HimanshuBari19 ) or email me at himanshubari789@gmail.com
+You can connect with me on X/Twitter ( https://x.com/himanshuCodes21 ) or email me at himanshubari789@gmail.com
 
 
 <!---
