@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HimanshuBari21
-- 💻 Software Developer (2 years of Industry Experience)
+- 💻 Software Developer @ FotoOwl.ai
 - 👀 I’m interested in Anything Amazing and Innovative 
 - 😎 I am good in React, Next.js, Tailwind and TypeScript
 - 🌱 I’m Learning React Native, MERN, DSA , Basics of AI/ML and Problems Solving.
