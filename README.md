@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HimanshuBari21
-- 💻 Software Developer @ Fotoowl.ai
+- 💻 Software Developer
 - 👀 I’m interested in Anything Amazing and Innovative 
 - 😎 I am good in React, Next.js, Tailwind, TypeScript AIAgents, MCP, MERN, DSA and Problems Solving.
 
